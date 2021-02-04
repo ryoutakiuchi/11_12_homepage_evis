@@ -1,0 +1,79 @@
+header{
+background-color: #8fbc8f;
+width: 100%;
+    padding: 10px 0; 
+    
+} 
+.inner {
+    width: 100%;
+    position: relative;
+    margin: 0 auto;
+   
+} 
+    
+.logo {
+    padding: 0 10px;
+    text-align: left; 
+} 
+
+
+body {
+  background-color:rgb(236, 232, 232);
+  font-size: 14px;
+  color: #555;
+  margin:  -10px 5px;
+}
+a:link, a:visited {color: #844;}
+a:hover {color: #faa;}
+p,form {
+  margin: 0;
+  padding: 4px 0;
+}
+h1 {
+  margin: 10px 0;
+  padding: 0;
+  font-size: 38px;
+  text-align: center;
+}
+table {
+  width: 760px; 
+  margin: 15px auto;
+  padding: 0;
+  background-color: #fff;
+  border-collapse: collapse;
+
+  
+}
+.welcom{
+  font-size: 24px;
+}
+.coment{
+  margin: 10px 0;
+  padding: 0;
+  font-size: 20px;
+  text-align: center;
+}
+
+th {
+  text-align: left;
+  
+}
+th, td {
+  margin: 0;
+  padding: 6px 16px;
+  border-bottom: 4px solid rgb(236, 232, 232);;
+  
+}
+.goods {
+  font-weight: bold;
+}
+.base {
+  width: 480px; 
+  margin: 15px auto;
+  padding: 10px;
+  background-color: #eee;
+}
+.error {
+  font-weight: bold;
+  color: #c44;
+}
